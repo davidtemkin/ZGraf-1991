@@ -45,7 +45,7 @@ This code was written for Think C on classic Macintosh. To build today, you woul
 
 ## See Also
 
-- [ZGraf-2025](https://github.com/dtemkin/ZGraf-2025) - Modern web port of this game
+- [ZGraf-2025](https://github.com/davidtemkin/ZGraf-2025) - Modern web port of this game
 
 ## License
 
